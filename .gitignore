@@ -1,5 +1,3 @@
-*.class
-*.log
 logs
 target
 /.idea
@@ -7,3 +5,5 @@ target
 /.classpath
 /.project
 /.settings
+*.class
+*.log
